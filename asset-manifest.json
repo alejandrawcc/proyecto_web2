@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/proyecto_web2/static/css/main.76ce6798.css",
+    "main.js": "/proyecto_web2/static/js/main.efb1c6b4.js",
+    "static/js/787.77189dcb.chunk.js": "/proyecto_web2/static/js/787.77189dcb.chunk.js",
+    "static/media/header.png": "/proyecto_web2/static/media/header.4db3f039291b8377334d.png",
+    "static/media/quinta_ gen_compu.jpeg": "/proyecto_web2/static/media/quinta_ gen_compu.f91737343eed5be9555b.jpeg",
+    "static/media/tercera_gen_cdc.jpg": "/proyecto_web2/static/media/tercera_gen_cdc.debaa4154318dad3156a.jpg",
+    "static/media/segunda_gen1_pdp.jpg": "/proyecto_web2/static/media/segunda_gen1_pdp.141c9de86361b553f7e2.jpg",
+    "static/media/primera_gen1_eniac.jpg": "/proyecto_web2/static/media/primera_gen1_eniac.1417a63d8d1a848b5fa3.jpg",
+    "static/media/compu.jpeg": "/proyecto_web2/static/media/compu.d79e19ff722ad6148567.jpeg",
+    "static/media/tercera_gen_dec.jpg": "/proyecto_web2/static/media/tercera_gen_dec.019bc522124c2a30586b.jpg",
+    "static/media/segunda_gen1_system360.jpg": "/proyecto_web2/static/media/segunda_gen1_system360.cf7a962e3b20759dbce4.jpg",
+    "static/media/Máquina-de-cálculo-diferencial.jpg": "/proyecto_web2/static/media/Máquina-de-cálculo-diferencial.e8e7724d6df125a6a288.jpg",
+    "static/media/maquina_de_pascal.jpg": "/proyecto_web2/static/media/maquina_de_pascal.c854307b3e067846cfba.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/proyecto_web2/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/proyecto_web2/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/proyecto_web2/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/cuarta_gen_imbpc.jpg": "/proyecto_web2/static/media/cuarta_gen_imbpc.c388357d7a4de012df54.jpg",
+    "static/media/gen2.jpg": "/proyecto_web2/static/media/gen2.33e32fb6634de063e5f0.jpg",
+    "static/media/quinta_ gen_macbook.jpg": "/proyecto_web2/static/media/quinta_ gen_macbook.8298a8d70561f312b0e0.jpg",
+    "static/media/primera_gen1.jpg": "/proyecto_web2/static/media/primera_gen1.d578375a4065c2f822f1.jpg",
+    "static/media/cuarta_gen_macintosh.jpg": "/proyecto_web2/static/media/cuarta_gen_macintosh.5ac4255c605fe13c435b.jpg",
+    "static/media/gen1.jpg": "/proyecto_web2/static/media/gen1.870fc394c0369e1897b3.jpg",
+    "static/media/gen.jpg": "/proyecto_web2/static/media/gen.09ac0b7155864a29a8da.jpg",
+    "index.html": "/proyecto_web2/index.html",
+    "main.76ce6798.css.map": "/proyecto_web2/static/css/main.76ce6798.css.map",
+    "main.efb1c6b4.js.map": "/proyecto_web2/static/js/main.efb1c6b4.js.map",
+    "787.77189dcb.chunk.js.map": "/proyecto_web2/static/js/787.77189dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ce6798.css",
+    "static/js/main.efb1c6b4.js"
+  ]
+}
